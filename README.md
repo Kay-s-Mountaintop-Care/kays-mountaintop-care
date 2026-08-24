@@ -1,22 +1,26 @@
-# kays-mountaintop-care
-Kay’s MountainTop Care
+# Kay's MountainTop Care Website
 
-Elevated, compassionate in-home care for seniors, veterans, and individuals with disabilities in rural Northern New Mexico.
+A free, lightweight business website with no paid dependencies.
 
-About
-Kay’s MountainTop Care provides nature-inspired, culturally sensitive caregiving services designed to support dignity and independence at home. Our focus is on rural and underserved communities, including tribal areas.
+## Easiest edits
+- Open `index.html` to change wording, services, prices, phone, email, or service area.
+- Open `styles.css` to change colors. The brand color variables are at the very top.
+- `script.js` only controls the mobile menu and copyright year.
 
-Services
-	•	Personal Care Assistance (bathing, grooming, mobility support)
-	•	Homemaking and Light Housekeeping
-	•	Meal Planning and Preparation
-	•	Companionship and Respite
-	•	Transportation and Errand Support
-	•	Customized Care Plans
+## Free publishing options
+1. GitHub Pages: enable Pages for this repository.
+2. Replit Starter: import this repository and publish one live project on the free plan.
+3. Lovable: use the site content as a starting point for visual/chat-based editing.
 
-Mission
-To guide each client “up the mountain” of daily living with respect, patience, and reliable support.
+## Custom domain
+A custom `.com` domain is generally not free. The site itself can stay free using a platform-provided subdomain.
 
-Contact
-Email: kaysmountaintop@outlook.com
-Phone: 505-695-0018
+## Current site content
+- Personal Care Assistance: starting at $28/hour
+- Homemaking: starting at $25/hour
+- Meal Preparation: starting at $25/hour
+- Medication Support: starting at $28/hour
+- Companionship & Respite: starting at $30/hour
+- Transportation: $30/hour + $0.65/mile
+- Overnight Care: starting at $220/night
+- Care Coordination & Advocacy: customized
